@@ -1,3 +1,5 @@
+
+/*__________________________________ГЛОБАЛЬНЫЕ СТИЛИ________________________________________*/
 * {
 	margin: 0;
 	padding: 0;
@@ -46,6 +48,10 @@ a {
 	margin: auto;
 }
 
+
+
+
+/*__________________________________ШАПКА________________________________________*/
 header {
 	background: #fff;
 	padding-top: 165px;
@@ -107,6 +113,10 @@ header .container .header-button:hover span {
 	height: 600px;
 }
 
+
+
+
+/*__________________________________4 БЛОКА ПОД БАННЕРОМ________________________________________*/
 .questions-block {
 	background: #fff;
 	max-width: 972px;
@@ -158,6 +168,10 @@ header .container .header-button:hover span {
 	padding-right: 70px;
 }
 
+
+
+
+/*__________________________________БОЛЬШОЙ ТЕКСТ________________________________________*/
 .big-text {
 	margin-top: 80px;
 	padding-top: 80px;
@@ -182,6 +196,10 @@ header .container .header-button:hover span {
 	margin-bottom: 24px;
 }
 
+
+
+
+/*__________________________________БЛОК С ПРЕИМУЩЕСТВАМИ________________________________________*/
 .advantages {
 	display: -webkit-flex;
 	display: -moz-flex;
@@ -242,6 +260,10 @@ header .container .header-button:hover span {
 	margin-bottom: 27px;
 }
 
+
+
+
+/*__________________________________ФУТТЕР________________________________________*/
 footer {
 	background: #161616;
 	padding-top: 100px;
